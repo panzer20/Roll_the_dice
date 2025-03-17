@@ -13,4 +13,4 @@ Usage: In the dice_visual.py file we can regulate how many sides our dice can ha
 
 Screenshots:
 
-![Screenshots](dice_visual.PNG)
+![Screenshots](dice_visual.png)
