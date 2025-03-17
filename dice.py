@@ -1,12 +1,12 @@
 from random import randint
 
 class Dice:
-    """Klasa przedstawiająca pojedynczą kość do gry."""
+    """A class representing a single dice."""
 
     def __init__(self, num_sides=6):
-        """Przyjęcie założenia, że kość do gry ma postać sześcianu."""
+        """Assuming that a dice is in the shape of a cube."""
         self.num_sides = num_sides
     
     def roll(self):
-        """Zwrot wartości z zakresu od 1 do liczby ścianek, które ma kość do gry."""
+        """Return a values between 1 and the number of sides the dice have."""
         return randint(1, self.num_sides)
