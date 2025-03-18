@@ -11,6 +11,7 @@ Installation: To run the the program you must:
 
 Usage: In the dice_visual.py file we can regulate how many sides our dice can have by specifying the number of sides for the first die in brackets, on line 6, and similarly for the second dice on line 7.
 Additionally, in the brackets after the word range on line 10 we can enter the number of rolls we are simulating.
+The dice roll visualization file is saved in the same folder where the dice_visual.py file is located
 
 Screenshots:
 
